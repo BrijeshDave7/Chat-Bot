@@ -1,0 +1,90 @@
+{
+    "responses": {
+      "greetings": {
+        "hello": "Hello! How can I assist you today?",
+        "hi": "Hi! How can I help you?",
+        "hey": "Hey there! How's it going?",
+        "good morning": "Good morning! Hope you're having a great day.",
+        "good afternoon": "Good afternoon! What can I do for you today?",
+        "good evening": "Good evening! How may I assist you?",
+        "how are you": "I'm just a bot, but I'm here to help! How can I assist you?",
+        "what's up": "Not much! I'm ready to answer your questions. How can I assist you today?"
+      },
+      "basic_questions": {
+        "what is your name": "I'm Jarvis, your chatbot assistant!",
+        "who are you": "I'm Jarvis, a bot here to assist you with your questions!",
+        "how old are you": "Age is just a number for me! But I was created to help answer your questions.",
+        "what can you do": "I can answer general knowledge questions, help with math problems, provide information about science, history, and more!",
+        "where are you from": "I'm from the digital world, created to assist users like you!"
+      },
+      "general_knowledge": {
+        "what is the largest planet in our solar system": "The largest planet in our solar system is Jupiter.",
+        "who wrote 'to kill a mockingbird'": "'To Kill a Mockingbird' was written by Harper Lee.",
+        "what is the boiling point of water": "The boiling point of water is 100 degrees Celsius or 212 degrees Fahrenheit.",
+        "what is the smallest country in the world": "The smallest country in the world is Vatican City.",
+        "who painted the sistine chapel ceiling": "The Sistine Chapel ceiling was painted by Michelangelo."
+      },
+      "mathematics": {
+        "what is 15% of 200": "15% of 200 is 30.",
+        "what is the area of a triangle with a base of 10 and a height of 5": "The area of a triangle is (base * height) / 2, so the area is 25.",
+        "what is 5 factorial": "5 factorial (5!) is 120.",
+        "what is the value of sin(90 degrees)": "The value of sin(90 degrees) is 1.",
+        "what is the sum of the angles in a triangle": "The sum of the angles in a triangle is 180 degrees."
+      },
+      "science": {
+        "what is the chemical symbol for gold": "The chemical symbol for gold is Au.",
+        "what is the speed of sound": "The speed of sound is approximately 343 meters per second (at sea level).",
+        "what is the process of water cycle": "The water cycle involves evaporation, condensation, precipitation, and collection.",
+        "what is newton's second law of motion": "Newton's second law states that force equals mass times acceleration (F = ma).",
+        "what is the primary function of the heart": "The primary function of the heart is to pump blood throughout the body."
+      },
+      "geography": {
+        "what is the capital of australia": "The capital of Australia is Canberra.",
+        "which river is the longest in the world": "The longest river in the world is the Nile River.",
+        "what mountain range separates europe from asia": "The Ural Mountains separate Europe from Asia.",
+        "what is the largest desert in the world": "The largest desert in the world is the Antarctic Desert.",
+        "which continent is known as the 'dark continent'": "Africa is often referred to as the 'Dark Continent.'"
+      },
+      "technology": {
+        "what does http stand for": "HTTP stands for HyperText Transfer Protocol.",
+        "what is the main purpose of an operating system": "The main purpose of an operating system is to manage computer hardware and software resources.",
+        "what is the difference between ram and rom": "RAM (Random Access Memory) is volatile memory used for temporary data storage, while ROM (Read-Only Memory) is non-volatile memory used for permanent data storage.",
+        "what is a browser": "A browser is a software application used to access and view websites.",
+        "what is cloud storage": "Cloud storage refers to saving data on remote servers accessed via the internet."
+      },
+      "history": {
+        "when did the titanic sink": "The Titanic sank on April 15, 1912.",
+        "who was the first woman to vote in the united states": "Wyoming granted women the right to vote in 1869, making it the first state to do so.",
+        "what year did world war i begin": "World War I began in 1914.",
+        "who was cleopatra": "Cleopatra was the last active ruler of the Ptolemaic Kingdom of Egypt, known for her relationships with Roman leaders Julius Caesar and Mark Antony.",
+        "what was the berlin wall": "The Berlin Wall was a barrier that divided East and West Berlin from 1961 to 1989."
+      },
+      "pop_culture": {
+        "who won the first season of 'american idol'": "Kelly Clarkson won the first season of 'American Idol'.",
+        "what is the highest-grossing film of all time": "As of 2024, 'Avatar' holds the title of the highest-grossing film of all time.",
+        "who is known as the 'king of pop'": "Michael Jackson is known as the 'King of Pop.'",
+        "what tv show features a group of friends living in new york": "The TV show 'Friends' features a group of friends living in New York City.",
+        "who directed 'jurassic park'": "'Jurassic Park' was directed by Steven Spielberg."
+      },
+      "additional_math": {
+        "what is 9 multiplied by 9": "9 multiplied by 9 is 81.",
+        "what is the square of 12": "The square of 12 is 144.",
+        "what is the cube of 3": "The cube of 3 is 27.",
+        "what is the value of 100 divided by 4": "100 divided by 4 is 25.",
+        "what is 50 minus 20": "50 minus 20 is 30."
+      },
+      "miscellaneous": {
+        "what is the currency of the united states": "The currency of the United States is the US Dollar (USD).",
+        "what is the tallest building in the world": "The tallest building in the world is the Burj Khalifa in Dubai.",
+        "what is the main ingredient in guacamole": "The main ingredient in guacamole is avocado.",
+        "who discovered penicillin": "Penicillin was discovered by Alexander Fleming.",
+        "what is the hardest natural substance on earth": "The hardest natural substance on Earth is diamond.",
+        "what does dna stand for": "DNA stands for Deoxyribonucleic Acid.",
+        "what is the capital of canada": "The capital of Canada is Ottawa.",
+        "what is a rainbow": "A rainbow is an arc of colors formed when sunlight is refracted and dispersed through water droplets.",
+        "what is the longest bone in the human body": "The longest bone in the human body is the femur.",
+        "what is a black hole": "A black hole is a region of space where the gravitational pull is so strong that nothing, not even light, can escape from it."
+      }
+    }
+  }
+  
